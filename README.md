@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/ekukujaime](https://dev.to/ekukujaime)
 
-- 💬 Ask me about **backend, react**
+- 💬 Ask me about **backend, python & sql**
 
 - 📫 How to reach me **domingoscavele01@gmail.com**
 

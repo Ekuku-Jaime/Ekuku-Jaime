@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Tiroc**
 
-- 🌱 I’m currently learning **SQL, Spring**
+- 🌱 I’m currently learning **SQL, Excel & Power BI**
 
 - 📝 I regularly write articles on [https://dev.to/ekukujaime](https://dev.to/ekukujaime)
 
